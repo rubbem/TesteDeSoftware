@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHO2hbCDfLzezHWFMye6hngcf7AV7GYuM55MC3GpIQ7EDWo35HoE//z4kg9yhdnxCVr9P7jyGZ0FG6VyQEWFpw==",
+  "success": true,
+  "projectFilePath": "E:\\Repository\\Teste de Software\\02 - TDD\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rubem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

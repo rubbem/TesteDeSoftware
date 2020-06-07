@@ -1,0 +1,9 @@
+E:\Repository\Teste de Software\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.deps.json
+E:\Repository\Teste de Software\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+E:\Repository\Teste de Software\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
+E:\Repository\Teste de Software\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csprojAssemblyReference.cache
+E:\Repository\Teste de Software\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+E:\Repository\Teste de Software\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.AssemblyInfo.cs
+E:\Repository\Teste de Software\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+E:\Repository\Teste de Software\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.dll
+E:\Repository\Teste de Software\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Domain.pdb
